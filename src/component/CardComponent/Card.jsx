@@ -11,7 +11,7 @@ const Card = ({data}) => {
           </div>
           <div className='mt-2'>
             <h4 className='fs-6'>{data.Name}</h4>
-            <p className='text-start'>
+            <p>
               {data.ShortDesc}
             </p>
             <button className='btn btn-outline-dark'><a href={data.ID} className='text-dark text-decoration-none'>View</a></button>

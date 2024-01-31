@@ -18,14 +18,14 @@ const uiSlice = createSlice({
           "images/training-certification/Advanced-DITA–XML.jpg",
         Name: "Confluence Advanced",
         ShortDesc:
-          "This course focuses to ensure your documentation-type content is easy to manage and consume. This skill builder ...",
+          "This course focuses to ensure your documentation-type content is easy to manage and consume. This skill ...",
       },
       {
         ID: "ConfluenceBasic",
         ImageUrl: "images/training-certification/Authoring-Tools.jpg",
         Name: "Confluence Basic",
         ShortDesc:
-          "This course guide end users to create their own easy to use and well-formatted content. This Skillbuilder covers ...",
+          "This course guide end users to create their own easy to use and well-formatted content. This Skillbuilder ...",
       },
       {
         ID: "XMLAuthor",
@@ -33,7 +33,7 @@ const uiSlice = createSlice({
           "images/training-certification/Simplified-Technical-English.jpg",
         Name: "XML Author",
         ShortDesc:
-          "This course focuses deepen the knowledge in XML Author, in any industry. In this course, you'll learn about writing ...",
+          "This course focuses deepen the knowledge in XML Author, in any industry. In this course, you'll learn ...",
       },
       {
         ID: "AdvancedTechnicalWriting-API",
@@ -47,7 +47,7 @@ const uiSlice = createSlice({
         ImageUrl: "images/training-certification/Authoring-Tools.jpg",
         Name: "Basic DITA-XML",
         ShortDesc:
-          "This course focuses on individuals keen to broaden their knowledge or specialize in basic DITA- XML, in any industry...",
+          "This course focuses on individuals keen to broaden their knowledge or specialize in basic DITA- XML...",
       },
       {
         ID: "AdvancedDITA-XML",
@@ -61,7 +61,7 @@ const uiSlice = createSlice({
         ImageUrl: "images/training-certification/Advanced-DITA–XML.jpg",
         Name: "xMetal Author",
         ShortDesc:
-          "Learn xMetal for XML based authoring to manage high volume structured content development and management...",
+          "Learn xMetal for XML based authoring to manage high volume structured content development and...",
       },
       {
         ID: "MadCapFlare",
