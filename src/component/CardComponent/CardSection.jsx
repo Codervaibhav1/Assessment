@@ -10,12 +10,12 @@ console.log()
     <div className="d-flex flex-column align-items-center justify-content-between">
       <div className="d-flex w-100 flex-column align-items-center justify-content-between">
         <p className="fs-2 text-center">Classes</p>
-        <p>
+        <p className="p-3">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium
           aspernatur ab,
         </p>
       </div>
-      <div className=" d-flex flex-wrap align-items-center justify-content-center gap-4 w-100">
+      <div className="row w-100 row-cols-1 row-cols-lg-4 row-cols-sm-2 row-cols-md-3 gap-3 d-flex align-items-center justify-content-center">
          {
             UiData.map((data)=> <Card key={data.ID} data={data}/>)
          }
